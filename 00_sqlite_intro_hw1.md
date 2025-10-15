@@ -75,6 +75,3 @@ INSERT INTO STUDENTS (ID, NAME, GRADE, CLASS, BIRTHYEAR) VALUES (10, 'Isaac', 78
 (מי שמסתבך יכול הפעם לשלוח קובץ טקסט)  
 שמרו על סדר השאלות וכתיבה מדויקת של SQL  
 
-את הפתרון יש להגיש ל- pythonai200425+sqlhw1@gmail.com
-
-
