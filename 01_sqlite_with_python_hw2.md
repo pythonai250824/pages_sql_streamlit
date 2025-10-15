@@ -69,7 +69,3 @@ data = [
 הוסף לולאה עם `while True` וטיפול בשגיאות עם `try-except` כדי לוודא שהקלט תקין
 הצג את השורה שהוזנה לאחר ההכנסה
 
-## 📤 הגשה
-
-יש לשלוח את הפתרון עם כל שלבי התרגול והמימושים למייל:
-📧 [pythonai200425+sqlitehw2@gmail.com](mailto:pythonai200425+sqlitehw2@gmail.com)
