@@ -101,7 +101,4 @@ Submit both files:
 * `pg_script.py` with your psycopg2 code
 * `streamlit_app.py` with the Streamlit code
 
-## 📤 הגשה
-
-יש לשלוח את הפתרון עם כל שלבי התרגול והמימושים למייל:
-📧 [pythonai200425+sql7@gmail.com](mailto:pythonai200425+sql7@gmail.com)
+#
