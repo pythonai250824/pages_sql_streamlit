@@ -140,7 +140,3 @@ Create a function `sp_books_by_year_range(from_year INT, to_year INT)` that retu
 ```sql
 SELECT * FROM sp_books_by_year_range(2000, 2015);
 ```
-## 📤 הגשה
-
-יש לשלוח את הפתרון עם כל שלבי התרגול והמימושים למייל:
-📧 [pythonai200425+sp1@gmail.com](mailto:pythonai200425+sp1@gmail.com)
