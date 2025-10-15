@@ -134,7 +134,3 @@ INSERT INTO student_courses (student_id, course_id) VALUES
 (1, 2),
 (2, 1);
 ```
-## 📤 הגשה
-
-יש לשלוח את הפתרון עם כל שלבי התרגול והמימושים למייל:
-📧 [pythonai200425+sql56@gmail.com](mailto:pythonai200425+sql56@gmail.com)
