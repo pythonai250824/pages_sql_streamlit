@@ -137,8 +137,3 @@ INSERT INTO subscriptions (citizen_id, company_id) VALUES
 * הצג את כל חברות הכבלים וכמה מנויים יש להן
 * הצג אזרחים שלא מנויים לאף חברה
 * הצג חברות שאין להן אף מנוי
-
-## 📤 הגשה
-
-יש לשלוח את הפתרון עם כל שלבי התרגול והמימושים למייל:
-📧 [pythonai200425+sqlitehw2@gmail.com](mailto:pythonai200425+sqlitehw4@gmail.com)
